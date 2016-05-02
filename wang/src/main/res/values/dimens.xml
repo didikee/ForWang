@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--720p手机的ui适配-->
+    <dimen name="wallpager_height">320dp</dimen>//3倍的关系
+</resources>
